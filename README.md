@@ -25,7 +25,7 @@ refered to as [MMD] throughout this repository:
 webpage, which is linked above. Furthermore, under the `Resources` tab on that
 website, there are links to lecture videos, which might have value for you. 
 
-> **Disclaimer:** the books lecture videos are _not_ part of the course material and
+> **Disclaimer:** the books and linked lecture videos are _not_ part of the course material and
 > are not guaranteed to cover the same aspects of the course material as the
 > actual lectures. So use them with cause.
 
@@ -38,9 +38,9 @@ in the [exercises directory](./exercises).
 ## Practical considerations 
 ### Tools
 _note_: This course is a Python course, so in case you are not familiar with
-Python, you might want to familiarize your self with Python and
-JupyterNotebooks. Also, one library, that we are going to be using a lot is
-`numpy`, which allows us to work with vectors and matrices. Additional libraries will be introduced during the course
+Python, you might want to familiarize yourself with Python and
+JupyterNotebooks. Also, one library that we are going to be using a lot is
+`numpy`, which allows us to work with vectors and matrices. Additional libraries will be introduced during the course.
 
 ### Setup
 If you don't have Python installed already, we recommend you to install 
@@ -85,7 +85,7 @@ Python scripts.
 
 Happy hacking. 
 
-#### For Vim enthusiats
+#### For Vim enthusiasts
 If you want vim-bindings in Jupyter Lab, then you can go to the extensions panel (on the left in
 Jupyter Lab) and search for the library `jupyterlab_vim`.
 
