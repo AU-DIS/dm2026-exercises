@@ -1,0 +1,30 @@
+name: dm25
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.9
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - tqdm
+    - jupyterlab
+    - pyarrow
+    - pandas
+    - seaborn
+    - spacy
+    - datasets
+    - faiss-cpu
+    - nltk
+    - gensim
+    - pyldavis
+    - vadersentiment
+    - empath
+    - wordcloud
+    - pip
+    - pip:
+        - drawdata
+        - torch
+        - torchvision
+        - networkx
+        - beir
