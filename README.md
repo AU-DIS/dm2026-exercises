@@ -25,7 +25,7 @@ refered to as [MMD] throughout this repository:
 webpage, which is linked above. Furthermore, under the `Resources` tab on that
 website, there are links to lecture videos, which might have value for you. 
 
-> **Disclaimer:** the books and associated lecture videos are _not_ part of the course material and
+> **Disclaimer:** the books and linked lecture videos are _not_ part of the course material and
 > are not guaranteed to cover the same aspects of the course material as the
 > actual lectures. So use them with cause.
 
