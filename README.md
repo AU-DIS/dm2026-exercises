@@ -39,8 +39,8 @@ in the [exercises directory](./exercises).
 ### Tools
 _note_: This course is a Python course, so in case you are not familiar with
 Python, you might want to familiarize your self with Python and
-JupyterNotebooks. Also, one library, that we are going to be using a lot is
-`numpy`, which allows us to work with vectors and matrices. Additional libraries will be introduced during the course
+JupyterNotebooks. Also, one library that we are going to be using a lot is
+`numpy`, which allows us to work with vectors and matrices. Additional libraries will be introduced during the course.
 
 ### Setup
 If you don't have Python installed already, we recommend you to install 
@@ -85,7 +85,7 @@ Python scripts.
 
 Happy hacking. 
 
-#### For Vim enthusiats
+#### For Vim enthusiasts
 If you want vim-bindings in Jupyter Lab, then you can go to the extensions panel (on the left in
 Jupyter Lab) and search for the library `jupyterlab_vim`.
 
