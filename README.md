@@ -38,7 +38,7 @@ in the [exercises directory](./exercises).
 ## Practical considerations 
 ### Tools
 _note_: This course is a Python course, so in case you are not familiar with
-Python, you might want to familiarize your self with Python and
+Python, you might want to familiarize yourself with Python and
 JupyterNotebooks. Also, one library that we are going to be using a lot is
 `numpy`, which allows us to work with vectors and matrices. Additional libraries will be introduced during the course.
 
