@@ -59,14 +59,14 @@ _Navigate to the project directory_:
 _Create and activate environment:_  
 ```bash
 > conda env create -f requirements.yml
-> conda activate dm26
+> conda activate dm25
 ``` 
 
 Now you should have created a conda environment with the necessary
 dependencies.  From now on, when you want to run a python script or start a
 notebook for this course, make sure to activate the environment (as in the last
 line of coda above).  You know that your environment is active, if your active
-line in the terminal is prefixed with `(dm26)`.
+line in the terminal is prefixed with `(dm25)`.
 
 By the way, a pretty fine cheatsheet can be found 
 [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
@@ -77,7 +77,7 @@ Navigate to the root of this repo and run the
 following command from the command line:
 
 ```bash
-(dm26) > jupyter lab
+(dm25) > jupyter lab
 ```
 
 The command should open a new window in your browser, where you can start running
